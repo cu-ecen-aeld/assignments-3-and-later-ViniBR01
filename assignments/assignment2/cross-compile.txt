@@ -10,3 +10,5 @@ gcc version 10.3.1 20210621 (GNU Toolchain for the A-profile Architecture 10.3-2
 
 vini.goncalves@sk-P15-PF2PWXG3:~/vini$ aarch64-none-linux-gnu-gcc -print-sysroot
 /home/vini.goncalves/vini/gcc-arm-10.3-2021.07-x86_64-aarch64-none-linux-gnu/bin/../aarch64-none-linux-gnu/libc
+
+writer: ELF 64-bit LSB executable, ARM aarch64, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux-aarch64.so.1, for GNU/Linux 3.7.0, with debug_info, not stripped
